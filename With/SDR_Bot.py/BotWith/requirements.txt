@@ -1,0 +1,19 @@
+# Gabriel AI - Dependências Essenciais
+python-dotenv
+colorama
+rich
+
+# IA (opcional - descomente se for usar OpenAI)
+# openai
+
+# Processamento (opcional - descomente conforme necessário)
+# PyPDF2
+# python-docx  
+# openpyxl
+# Pillow
+# openai-whisper
+
+# Web/API (opcional - descomente se for usar integração)
+# fastapi
+# uvicorn
+# requests

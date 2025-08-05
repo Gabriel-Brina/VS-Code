@@ -1,8 +1,0 @@
-# Ignorar arquivos binários e temporários
-*.mp3
-*.wav
-*.pdf
-*.png
-*.pyc
-venv/
-env/
